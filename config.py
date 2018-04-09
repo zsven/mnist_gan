@@ -1,0 +1,8 @@
+DATA_DIR = 'mnist/'
+Y_SHAPE = 10
+Z_SHAPE = 10
+X_W = 28
+X_H = 28
+BATCH_SIZE = 100
+MAX_STEP = 100
+IMG_PATH = 'img/'
